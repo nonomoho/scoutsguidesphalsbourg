@@ -1,0 +1,1 @@
+{"version":3,"sources":["js.js"],"names":[],"mappings":"AAAA;AACA","file":"js.js","sourcesContent":["let $ = require('jquery');\nconsole.log($);"],"sourceRoot":"/source/"}

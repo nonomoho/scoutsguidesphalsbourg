@@ -1,0 +1,8 @@
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.taille-carousel {
+    width: 300px;
+    height: 300px;
+}
